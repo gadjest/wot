@@ -1,7 +1,7 @@
 <?php
 
 /*/ setting config /*/
-$email="xxxxxxxx@gmail.com";
+$email="bbfs432@gmail.com";
 $pascode="xxxxx";
 
 /*/ setting auto payout coin /*/
